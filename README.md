@@ -4,8 +4,8 @@
 le script à pour but de scanner le dernier mail recu, en prennat l'url (si une url ce trouve dans le contenut), grace l'API de https://www.virustotal.com pour pouvoir scanner l'URL
 
 pour pouvoir utiliser le script
-il faut une boite mail ou imap est activer : https://support.google.com/mail/answer/7126229?hl=fr#zippy=%2Cétape-vérifier-quimap-est-activé
-activer "less secure apps" : https://hotter.io/docs/email-accounts/secure-app-gmail/
+-il faut une boite mail ou imap est activer : https://support.google.com/mail/answer/7126229?hl=fr#zippy=%2Cétape-vérifier-quimap-est-activé
+-aussi activer "less secure apps" : https://hotter.io/docs/email-accounts/secure-app-gmail/
 
 pour pouvvoir utiliser l'API de VirusTotal il faut l'API key qui est donnais avec la création d'un compte, pour ce script cest la kle qui est utiliser.
 Aussi avoir la libraire vt-py : https://github.com/VirusTotal/vt-py
