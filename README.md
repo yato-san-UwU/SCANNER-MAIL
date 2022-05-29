@@ -7,7 +7,7 @@ pour pouvoir utiliser le script
 -il faut une boite mail ou imap est activer : https://support.google.com/mail/answer/7126229?hl=fr#zippy=%2Cétape-vérifier-quimap-est-activé
 -aussi activer "less secure apps" : https://hotter.io/docs/email-accounts/secure-app-gmail/
 
-pour pouvvoir utiliser l'API de VirusTotal il faut l'API key qui est donnais avec la création d'un compte, pour ce script cest la kle qui est utiliser.
+pour pouvvoir utiliser l'API de VirusTotal il faut l'API key qui est donnais avec la création d'un compte, pour ce script cest ma cle qui est utilisé, pas besoin dans cree une.
 Aussi avoir la libraire vt-py : https://github.com/VirusTotal/vt-py
 
 
