@@ -23,5 +23,5 @@ programme realiser grace a ces differentes sources :
 
 
 lors de l'execution du script 2 problemes s'affiche :
--le resultat du script qui ne saffiche pas toujours correcttement
--et une erreur "unclosed session" 
+-le resultat du script qui ne saffiche pas toujours correcttement : https://github.com/yato-san-UwU/SCANNER-MAIL/blob/main/resultat-tp-secu.PNG
+-et une erreur "unclosed session"  : https://github.com/yato-san-UwU/SCANNER-MAIL/blob/main/unclosed-tp-secu.PNG
