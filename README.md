@@ -11,7 +11,7 @@ pour pouvvoir utiliser l'API de VirusTotal il faut l'API key qui est donnais ave
 Aussi avoir la libraire vt-py : https://github.com/VirusTotal/vt-py
 
 
-programme realiser grace a ces differentes sources :
+programme realiser grace à ces differentes sources :
 
 ///-https://docs.python.org/3/library/email.html
 ///-https://docs.python.org/3/library/imaplib.html
@@ -23,5 +23,5 @@ programme realiser grace a ces differentes sources :
 
 
 lors de l'execution du script 2 problemes s'affiche :
--le resultat du script qui ne saffiche pas toujours correcttement : https://github.com/yato-san-UwU/SCANNER-MAIL/blob/main/resultat-tp-secu.PNG
+-le resultat du script qui ne saffiche pas toujours correcttement. résultat espéré : https://github.com/yato-san-UwU/SCANNER-MAIL/blob/main/resultat-tp-secu.PNG
 -et une erreur "unclosed session"  : https://github.com/yato-san-UwU/SCANNER-MAIL/blob/main/unclosed-tp-secu.PNG
