@@ -13,12 +13,12 @@ Aussi avoir la libraire vt-py : https://github.com/VirusTotal/vt-py
 
 programme realiser grace a ces differentes sources :
 
--https://docs.python.org/3/library/email.html
--https://docs.python.org/3/library/imaplib.html
--https://www.youtube.com/watch?v=4iMZUhkpWAc
--https://fr.acervolima.com/recuperer-les-details-des-e-mails-recemment-envoyes-via-un-compte-gmail-a-laide-de-python/
--https://stackoverflow.com/questions/49654499/python-extract-urls-from-email-messages
--https://stackoverflow.com/questions/43727583/re-sub-erroring-with-expected-string-or-bytes-like-object
+///-https://docs.python.org/3/library/email.html
+///-https://docs.python.org/3/library/imaplib.html
+///-https://www.youtube.com/watch?v=4iMZUhkpWAc
+///-https://fr.acervolima.com/recuperer-les-details-des-e-mails-recemment-envoyes-via-un-compte-gmail-a-laide-de-python/
+///-https://stackoverflow.com/questions/49654499/python-extract-urls-from-email-messages
+///-https://stackoverflow.com/questions/43727583/re-sub-erroring-with-expected-string-or-bytes-like-object
 
 
 
