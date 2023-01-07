@@ -3,6 +3,8 @@ scanner de lien dans une boit mail (programme en cours d'amélioration).
 // les en cours de changement :
 // -le choix de choisir l'endroit ou ce trouve le mail
 // -correction des erreur d'affichage
+REMARQUE "l'option less secure app" de google a changer "https://www.youtube.com/watch?v=uVDq4VOBMNM" video explicative de l'aternative de "less secure app"  
+
 
 -python version 3.10.4
 
