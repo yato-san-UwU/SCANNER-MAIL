@@ -1,4 +1,9 @@
 # SCANNER-MAIL
+scanner de lien dans une boit mail (programme en cours d'amélioration).
+// les en cours de changement :
+// -le choix de choisir l'endroit ou ce trouve le mail
+// -correction des erreur d'affichage
+
 -python version 3.10.4
 
 le script à pour but de scanner le dernier mail recu, en prennat l'url (si une url ce trouve dans le contenut), grace l'API de https://www.virustotal.com pour pouvoir scanner l'URL
