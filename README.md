@@ -5,6 +5,9 @@ scanner de lien dans une boit mail (programme en cours d'amélioration).
 // -correction des erreur d'affichage
 REMARQUE "l'option less secure app" de google a changer "https://www.youtube.com/watch?v=uVDq4VOBMNM" video explicative de l'aternative de "less secure app"  
 
+
+// quelque ammelioration faite 
+
 ---------------------ci dessous toujours pas à jour---------------------
 -python version 3.10.4
 
